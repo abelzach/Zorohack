@@ -11,7 +11,26 @@ function walk(node)
         child = next;
     }
 }
-
+function handleText(node) {
+    var v = node.textContent;
+    var i;
+    var regexp;
+    chrome.storage.sync.get({"text": true,"images":true, "brands": true}, function(items){
+        if (items.text) {
+            for (i = 0; i < text.length; i++) {
+                    regexp = new RegExp("\\b"+text[i]+"\\b", "gi");
+                    v = v.replace(regexp, "----");
+                }
+        }
+        if (items.brands) {
+            for (i = 0; i < brands.length; i++) {
+                    regexp = new RegExp("\\b"+brands[i]+"\\b", "gi");
+                    v = v.replace(regexp, "----");
+                }
+        }
+        node.textContent = v;
+    });
+}
 document.addEventListener("DOMContentLoaded", function() {
     walk(document.body);
 });
