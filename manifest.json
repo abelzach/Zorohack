@@ -3,7 +3,11 @@
     "name": "Zorohack",
     "version": "1.0",
     "description": "An extension that replaces all alcohol content to blanks.",
-    "browser_action": {
+      "icons": {
+        "48": "z.svg"
+       },
+      "browser_action": {
+        "default_icon": "z.svg",
         "default_popup":"popup.html"
       }
 }
