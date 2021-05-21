@@ -17,5 +17,6 @@
           "js": ["text.js", "brands.js"],
           "run_at": "document_start"
         }
-      ]
+      ],
+      "permissions" : ["tabs", "*://*/*", "storage"]
 }
