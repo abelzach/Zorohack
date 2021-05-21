@@ -7,7 +7,7 @@
         "48": "z.svg"
        },
       "browser_action": {
-        "default_icon": "z.svg",
+        "default_icon": "z_logo.png",
         "default_popup":"popup.html"
       }
 }
