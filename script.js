@@ -15,7 +15,7 @@ function handleText(node) {
     var v = node.textContent;
     var i;
     var regexp;
-    chrome.storage.sync.get({"text": true,"images":true, "brands": true}, function(items){
+    chrome.storage.sync.get({"text": true , "brands": true}, function(items){
         if (items.text) {
             for (i = 0; i < text.length; i++) {
                     regexp = new RegExp("\\b"+text[i]+"\\b", "gi");

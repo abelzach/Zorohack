@@ -2,6 +2,7 @@ function start() {
     save_options();
 }
 
+
 function save_options() {
     var text = document.getElementById('text').checked;
     var images = document.getElementById('images').checked;
@@ -19,6 +20,8 @@ function save_options() {
         }, 750);
       });
 }
+
+
 function restore_options() {
     chrome.storage.sync.get({
         "text": false,
@@ -30,6 +33,7 @@ function restore_options() {
       document.getElementById('images').checked = items.images;
     });
 }
+
 
 document.addEventListener('DOMContentLoaded', restore_options);
 document.getElementById('save').addEventListener('click',start);
