@@ -2,6 +2,8 @@
     "manifest_version": 2,
     "name": "Zorohack",
     "version": "1.0",
-    "description": "An extension that replaces all alcohol content to blanks."
-
+    "description": "An extension that replaces all alcohol content to blanks.",
+    "browser_action": {
+        "default_popup":"popup.html"
+      }
 }
