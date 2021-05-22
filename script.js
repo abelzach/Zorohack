@@ -45,7 +45,7 @@ async function blacked()
         }
         }
         catch(err){
-            //console.log(err);
+            console.log(err);
         }
 
 
