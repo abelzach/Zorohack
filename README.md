@@ -17,13 +17,13 @@ Zorohack is a project to eliminate and discard the triggers while browsing that 
 5. Turn on the main toggle manually by clicking.
 6. Browse freely.
 
-<br />
-![extension1](11.JPG?raw=true)
+<br/>
+![extension1](12.JPG?raw=true)
 
-<br />
-![text](11.JPG?raw=true)
+<br/>
+![text](13.JPG?raw=true)
 
-<br />
-![blur](11.JPG?raw=true)
-<br />
+<br/>
+![blur](14.JPG?raw=true)
+
 
