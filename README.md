@@ -1,5 +1,11 @@
 # Zorohack
 
+<br/>
+
+![mainpic](11.jpg?raw=true)
+
+<br/>
+
 Zorohack is a project to eliminate and discard the triggers while browsing that cause people to relapse back to addiction.
 
 ## How to setup?
@@ -10,3 +16,16 @@ Zorohack is a project to eliminate and discard the triggers while browsing that 
 4. Select Zorohack folder and let it load.
 5. Turn on the main toggle manually by clicking.
 6. Browse freely.
+
+<br />
+![extension](12.jpg?raw=true)
+<br />
+
+<br />
+![extension](13.jpg?raw=true)
+<br />
+
+<br />
+![extension](14.jpg?raw=true)
+<br />
+
