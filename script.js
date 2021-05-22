@@ -34,11 +34,11 @@ async function blacked()
                 }
                 
                 
-                // if(prediction[0].probability.toFixed(2) > 0.5)
-                // {
-                //     alert("Alert");
-                //     document.body.style.filter = "blur(10px)";
-                // }
+                if(prediction[0].probability.toFixed(2) > 0.5)
+                {
+                    alert("Alert");
+                    document.body.style.filter = "blur(10px)";
+                }
                 
             }
 
