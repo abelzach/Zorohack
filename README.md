@@ -19,13 +19,11 @@ Zorohack is a project to eliminate and discard the triggers while browsing that 
 
 <br />
 ![extension1](12.JPG?raw=true)
-<br />
 
 <br />
-![extension2](13.JPG?raw=true)
-<br />
+![text](13.JPG?raw=true)
 
 <br />
-![extension3](14.JPG?raw=true)
+![blur](14.JPG?raw=true)
 <br />
 
