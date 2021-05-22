@@ -34,7 +34,7 @@ async function blacked()
                 }
                 
                 
-                if(prediction[0].probability.toFixed(2) > 0.5)
+                if(prediction[0].probability.toFixed(2) > 0.8)
                 {
                     alert("Alert");
                     console.log(image.src);
