@@ -18,14 +18,14 @@ Zorohack is a project to eliminate and discard the triggers while browsing that 
 6. Browse freely.
 
 <br />
-![extension](12.JPG?raw=true)
+![extension1](12.JPG?raw=true)
 <br />
 
 <br />
-![extension](13.JPG?raw=true)
+![extension2](13.JPG?raw=true)
 <br />
 
 <br />
-![extension](14.JPG?raw=true)
+![extension3](14.JPG?raw=true)
 <br />
 
