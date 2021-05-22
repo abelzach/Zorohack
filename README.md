@@ -2,7 +2,7 @@
 
 <br/>
 
-![mainpic](11.jpg?raw=true)
+![mainpic](11.JPG?raw=true)
 
 <br/>
 
@@ -18,14 +18,14 @@ Zorohack is a project to eliminate and discard the triggers while browsing that 
 6. Browse freely.
 
 <br />
-![extension](12.jpg?raw=true)
+![extension](12.JPG?raw=true)
 <br />
 
 <br />
-![extension](13.jpg?raw=true)
+![extension](13.JPG?raw=true)
 <br />
 
 <br />
-![extension](14.jpg?raw=true)
+![extension](14.JPG?raw=true)
 <br />
 
