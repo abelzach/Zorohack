@@ -22,18 +22,4 @@ function save_options() {
 }
 
 
-function restore_options() {
-    chrome.storage.sync.get({
-        "text": false,
-        "images": false,
-        "brands": false
-    }, function(items) {
-      document.getElementById('text').checked = items.text;
-      document.getElementById('brands').checked = items.brands;
-      document.getElementById('images').checked = items.images;
-    });
-}
-
-
-document.addEventListener('DOMContentLoaded', restore_options);
 document.getElementById('save').addEventListener('click',start);
