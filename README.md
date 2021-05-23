@@ -11,12 +11,10 @@ A person who is trying to stop using drugs can make mistakes, feel bad and start
 ## Working
 
 Mainly our project does 2 things simultaneously.
-i. Censoring the triggering words
-ii. Censoring the triggering images
 
 1.  Censoring the words
 
-- Related texts are compared with the list of texts defined in the code and is replaced by a ' - ' .
+- Related texts are compared with the list of texts defined in the code and is censored.
 
 2.  Censoring the images
 
