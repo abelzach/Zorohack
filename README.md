@@ -1,12 +1,12 @@
 # Zorohack
 
+Zorohack is a project to eliminate and discard the triggers while browsing that cause people to relapse back to addiction.
+
 <br/>
 
 ![mainpic](11.JPG?raw=true)
 
 <br/>
-
-Zorohack is a project to eliminate and discard the triggers while browsing that cause people to relapse back to addiction.
 
 ## How to setup?
 
@@ -30,4 +30,3 @@ Zorohack is a project to eliminate and discard the triggers while browsing that 
 ![blur](14.JPG?raw=true)
 
 <br/>
-
