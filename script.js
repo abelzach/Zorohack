@@ -21,7 +21,7 @@ async function blacked()
                 var image = document.createElement("img");
                 image.src = images[i].src;
                 console.log("Image : " +  i);               
-                const URL = "https://teachablemachine.withgoogle.com/models/aVpYA5cm0/";
+                const URL = "https://teachablemachine.withgoogle.com/models/EPrn4qG_g/";
                 const modelURL = URL + "model.json";
                 const metadataURL = URL + "metadata.json";
                 model = await tmImage.load(modelURL, metadataURL);
