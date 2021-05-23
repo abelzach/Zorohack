@@ -24,7 +24,7 @@ Mainly our project does 2 things simultaneously.
 
 <br/>
 
-![mainpic](11.JPG?raw=true)
+![mainpic](images/11.JPG?raw=true)
 
 <br/>
 
@@ -43,14 +43,14 @@ Mainly our project does 2 things simultaneously.
 
 <br/>
 
-![ext](12.JPG?raw=true)
+![ext](images/12.JPG?raw=true)
 
 <br/>
 
-![text](13.JPG?raw=true)
+![text](images/13.JPG?raw=true)
 
 <br/>
 
-![blur](14.JPG?raw=true)
+![blur](images/14.JPG?raw=true)
 
 <br/>
