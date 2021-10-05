@@ -24,7 +24,7 @@ Mainly our project does 2 things simultaneously.
 
 ## Future Implementation
 
-1. Censoring the videos with related visuals.
+1. Censoring the videos with related visuals and graphic contents.
 
 ---
 
