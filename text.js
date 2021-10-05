@@ -42,5 +42,17 @@ var text = ["cigarettes",
 "Chewing tobacco",
 "E-Cigarettes",
 "Chewing Tobacco",
+"Ganja",
+"Mary Jane",
+"Dart",
+"Beer",
+"BEER",
+"Beverage"
+"SMOKE",
+"cigarette",
+"puff",
+"fag",
+"METH",
+"meth",
     
 ]
