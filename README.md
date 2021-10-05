@@ -22,6 +22,12 @@ Mainly our project does 2 things simultaneously.
 
 ---
 
+## Future Implementation
+
+1. Censoring the videos with related visuals.
+
+---
+
 <br/>
 
 ![mainpic](images/11.JPG?raw=true)
