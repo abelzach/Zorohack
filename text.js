@@ -47,12 +47,15 @@ var text = ["cigarettes",
 "Dart",
 "Beer",
 "BEER",
-"Beverage"
+"Beverage",
 "SMOKE",
 "cigarette",
 "puff",
 "fag",
 "METH",
 "meth",
+"heineken",
+"KINGFISHER",
+
     
 ]
