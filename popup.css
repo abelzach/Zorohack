@@ -23,7 +23,8 @@ body{
     max-width:500px;
     border-radius:5px;
     overflow:hidden;
-    padding:5px;    
+    padding:5px;   
+    width: 100%; 
 
 }
 input[type="checkbox"]{
