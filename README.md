@@ -12,11 +12,11 @@ A person who is trying to stop using drugs can make mistakes, feel bad and start
 
 Mainly our project does 2 things simultaneously.
 
-1.  Censoring the words
+1.  Censoring the words.
 
 - Related texts are compared with the list of texts defined in the code and is censored.
 
-2.  Censoring the related images
+2.  Censoring the related images.
 
 - The images from the web pages are fed to our Machine learning model and predicts whether a particular image is triggering or not . To discard the triggers we alert the user and blurs the whole webpage.
 
