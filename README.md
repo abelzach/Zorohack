@@ -24,8 +24,9 @@ Mainly our project does 2 things simultaneously.
 
 ## Future Implementation
 
-1. Censoring the videos with related visuals and graphic contents.
-
+1. Censoring the videos with related visuals.
+2. Censoring the graphic content unpleasent to the user.
+3. Censoring gaming experience appropriate to the user.
 ---
 
 <br/>
